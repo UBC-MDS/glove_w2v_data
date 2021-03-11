@@ -1,0 +1,1 @@
+# glove_w2v_data
